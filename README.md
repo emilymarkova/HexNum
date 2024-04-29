@@ -17,7 +17,7 @@ By default, Replit runs the `dev` script, but you can configure it by changing t
 Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)# HexNum
 
 
-Description:
+Description :
 Existing math games are effective in improving people's skills, but often miss the game aspect. In other words, they are usually not very fun to play. So we created HexNums, a witch-themed simple math game that improves the user’s math and logic skills while keeping it fun! We included various game aspects such as a wizard teacher who emotionally responds to the users playing, a health score, cool wands, and more :)
 
 
