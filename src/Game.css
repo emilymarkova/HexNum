@@ -1,0 +1,21 @@
+.all {
+  display:flex;
+}
+
+body {
+  justify-content:center;
+  align-items: flex-end;
+}
+
+#title {
+  justify-content:center;
+  align-items: flex-start;
+}
+
+
+
+/* Col {
+  line-height: 1.5;
+  display: inline-block;
+  vertical-align: middle;
+} */

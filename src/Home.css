@@ -1,0 +1,34 @@
+/* https://replit.com/join/egzfirnkzf-emilymarkova1 */
+
+/* https://flexboxfroggy.com/ */
+
+.all {
+  display: flex;
+  /* justify-content: center; */
+}
+
+#title {
+  justify-content:center;
+  align-items:flex-start;
+  width: 600px;
+  height: 600px;
+}
+
+.buttons {
+  /* right: 470px;
+  top: 600px; */
+  /* flex-direction: row; */
+  align-items: center;
+  justify-content: space-between;
+  padding: 50px;
+}
+
+button {
+  background-color: #564285;
+  color:WHITE;
+  size: 100px;
+  border-color: WHITE;
+  padding: 13px 60px;
+  font-family: Fantasy;
+  font-size: 15px;
+}
