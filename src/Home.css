@@ -7,6 +7,11 @@
   /* justify-content: center; */
 }
 
+td {
+  text-align: center;
+  align-content: center;
+}
+
 #title {
   justify-content:center;
   align-items:flex-start;

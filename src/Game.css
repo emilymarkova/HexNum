@@ -1,20 +1,41 @@
-.all {
+#main {
+  color: white;
   display:flex;
+  flex-direction: column;
+  flex-wrap: wrap;
 }
-
-body {
-  justify-content:center;
-  align-items: flex-end;
+html {
+  width:100vw;
+  height: 100vh;
 }
-
-#title {
-  justify-content:center;
+#gems {
+  justify-content: flex-start;
   align-items: flex-start;
 }
 
+/*
+#hearts {
+  justify-content:flex-end;
+  align-items:flex-start;
+}
 
+#stats {
+  
+  justify-content:flex-end;
+  align-items:flex-start;
+}
 
-/* Col {
+#teacher {
+  justify-content:flex-end;
+  align-items:flex-end;
+}
+
+#board {
+  justify-content:center;
+  align-items:center;
+}
+
+Col {
   line-height: 1.5;
   display: inline-block;
   vertical-align: middle;
